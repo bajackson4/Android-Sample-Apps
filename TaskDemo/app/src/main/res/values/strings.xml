@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TaskDemo</string>
+    <string name="text_activity_1">This is Activity 1</string>
+    <string name="btn_text">Next Activity</string>
+    <string name="text_activity_2">This is Activity 2</string>
+    <string name="text_activity_3">This is Activity 3</string>
+</resources>
